@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "/home/kaadmy/website/"
-title_separator          : "@"
+title                    : "/home/kaadmy"
+title_separator          : "-"
 name                     : "KaadmY"
 description              : "My website where I do stuff"
 url                      : https://kaadmy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
