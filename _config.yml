@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "KaadmY's home page"
+title                    : "/home/kaadmy/website/"
 title_separator          : "|"
 name                     : "KaadmY"
 description              : "My website where I do stuff"
