@@ -10,7 +10,7 @@ I make stuff and play games.
 
 I've contributed to a few open source projects, including (but not limited to):
 
-- [Quetoo](https://quetoo.org): Bug fixes and general improvements
+- [Quetoo](http://quetoo.org): Bug fixes and general improvements
 
 I've also made some mods and maps for games:
 
