@@ -8,5 +8,5 @@ A free and open-source first-person shooter game that I've been contributing to,
 Quetoo has been making incredible progress in leaps and bounds in 2016, and I
 sincerely hope to see equally rapid progress this year.
 
-Go and vote for it!
-<iframe src="http://steamcommunity.com/sharedfiles/widget/850566384" width="336" height="137" frameborder="0" scrolling="no"></iframe>
+Go and vote for it on
+[Steam](steamcommunity.com/sharedfiles/filedetails/?id=850566384)!
