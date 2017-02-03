@@ -9,4 +9,4 @@ Quetoo has been making incredible progress in leaps and bounds in 2016, and I
 sincerely hope to see equally rapid progress this year.
 
 Go and vote for it on
-[Steam](steamcommunity.com/sharedfiles/filedetails/?id=850566384)!
+[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=850566384)!
