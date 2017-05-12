@@ -15,9 +15,9 @@ I've contributed to a few open source projects, including (but not limited to):
 I've also made some mods and maps for games:
 
 - [Pixture](https://github.com/kaadmy/pixture): Subgame for
-[Minetest](https://minetest.net) that tries to emphasize survival and
+[Minetest](http://minetest.net) that tries to emphasize survival and
 exploration.
-- [QInvasion](https://github.com/kaadmy/qinvasion): DarkPlaces(Quake1) mod that
+- [QInvasion](https://github.com/kaadmy/qinvasion): Darkplaces(Quake 1) mod that
 adds a wave-based monster invasion gamemode.
 - [Passture](https://github.com/kaadmy/passture): A 2-team ctf map for
 [BZFlag](https://bzflag.org).
@@ -38,7 +38,7 @@ And last but not least, I play games:
 
 - [Xonotic](https://xonotic.org).
 - [Quetoo](https://quetoo.org).
-- [Minetest](https://minetest.net).
-- Quake 1/2/3.
+- [Minetest](http://minetest.net).
+- Quake 1/2/3 (with [Darkplaces](https://icculus.org/twilight/darkplaces/)).
 - DooM 1/2 (with [Zandronum](https://zandronum.com) and [Odamex](https://odamex.net)).
 - ... and many more that I don't actively play anymore.
