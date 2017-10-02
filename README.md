@@ -3,6 +3,10 @@
 
 My home page, duh
 
+## Credits
+
+- [bestmotherfucking.website](https://bestmotherfucking.website) for CSS and some HTML snippets
+
 ## Changelog:
 
 - 2017-10-02:
